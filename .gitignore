@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.kivy/
+assets/art/.keyed/
+settings.json
+savegame.json
+save_slot_*.json
+hall_of_fame.json
+build/
+dist/

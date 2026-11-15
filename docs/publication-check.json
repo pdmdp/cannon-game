@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-15",
+  "python": "3.11.8",
+  "kivy": "2.3.0",
+  "tests": 12,
+  "passed": 12,
+  "scope": "Physics, storage and asset checks. No window or campaign playthrough was run.",
+  "figure_source": "docs/report.pdf, page 4, embedded Figure 3"
+}

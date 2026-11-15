@@ -1,0 +1,574 @@
+[
+  {
+    "path": "requirements.txt",
+    "sha256": "c73eb25b868bfdfc1ebcd7c76d88d786310c9a16dd840d885cdbb1d47e30c461",
+    "bytes": 12
+  },
+  {
+    "path": "CREDITS.md",
+    "sha256": "e3d28a349504a19f1a818a60aecd8c25d9ce222005ed96e014ed787ea424e43c",
+    "bytes": 914
+  },
+  {
+    "path": "RUNNING.md",
+    "sha256": "5ddb30f8a4ed99563d90054dcb4b599454ea7ad2b4f865e4502673a2aa8e21ab",
+    "bytes": 2913,
+    "source_path": "README.md"
+  },
+  {
+    "path": "main.py",
+    "sha256": "b02bafbfa64267124217ec2df10bdf3e7eeea019b169bb6833521a8fceaad5f9",
+    "bytes": 8826
+  },
+  {
+    "path": "game/cannon.py",
+    "sha256": "c99d6525cf88bef69d03d05992f09755f42d2a89d34de95877d80aba7e5430a6",
+    "bytes": 10168
+  },
+  {
+    "path": "game/story.py",
+    "sha256": "49b1f7b95cd120fd8705afe5039ab6c3c26edeee34ed9fe5034e5145921300fe",
+    "bytes": 9571
+  },
+  {
+    "path": "game/constants.py",
+    "sha256": "e4444289f5fc434ae057f09864b7a261470607628e612d563215109696010a92",
+    "bytes": 7717
+  },
+  {
+    "path": "game/__init__.py",
+    "sha256": "a08fc7246a0b9a325be4efcf261615d3cc172e17d58e1409dc89eb80c1366223",
+    "bytes": 121
+  },
+  {
+    "path": "game/particles.py",
+    "sha256": "232b049716df808f27408dac27955a3965d6755097ceb8cf4773053a1df36f95",
+    "bytes": 1521
+  },
+  {
+    "path": "game/viewport.py",
+    "sha256": "fcdae052cdd63b67750563a603b8ed91bfc3980fb3798cc4ca531a6e5bb53bf1",
+    "bytes": 1506
+  },
+  {
+    "path": "game/physics.py",
+    "sha256": "5bbdba32314416b26b3ead6f21d11151426dbb8ac70d4fef113731f84c11d408",
+    "bytes": 3688
+  },
+  {
+    "path": "game/obstacles.py",
+    "sha256": "ce67c52936cd989c2b7ab79665df0fa98a99390e5f69085062d657da54576866",
+    "bytes": 18957
+  },
+  {
+    "path": "game/storage.py",
+    "sha256": "f32dbe5c98676b2a28b0c35edd228489751084d382830e2bed68a2598e10ca30",
+    "bytes": 22442
+  },
+  {
+    "path": "game/art.py",
+    "sha256": "2cb2b0d0477c105cc3f36635782b87c2ad99a8c0e908e1b9571098fb98ff1429",
+    "bytes": 8156
+  },
+  {
+    "path": "game/target.py",
+    "sha256": "2003b1d45f212019a9838011b320567ee6233b3071cf0a5e09caea66f3d5176e",
+    "bytes": 3911
+  },
+  {
+    "path": "game/audio.py",
+    "sha256": "e545e1e3074d4842fbc3952d1969e9228614fa744dbea7a3b54f89cd6ac05157",
+    "bytes": 12341
+  },
+  {
+    "path": "game/screens.py",
+    "sha256": "0871154823ec2a5812e73a072d5ba278f035a5ca0e1d70493d38a32f63809b04",
+    "bytes": 57709
+  },
+  {
+    "path": "game/levels.py",
+    "sha256": "1065b372b3443389387c8042a0b0503ed421397d9cbc932b98b39ab50f14fd6f",
+    "bytes": 11605
+  },
+  {
+    "path": "game/game_screen.py",
+    "sha256": "c29abd376db5cd474c599ce9fc03a683260b209f5c59ca5b69f1af7d5d50a433",
+    "bytes": 74491
+  },
+  {
+    "path": "game/title.py",
+    "sha256": "55268d67f98d476ed4a2948d51581efac746c3a6402a4842e4b9366cf73b5eac",
+    "bytes": 7639
+  },
+  {
+    "path": "game/projectiles.py",
+    "sha256": "79abb892ccd86b71756b139558c666723de5aaa6c3f9eecc689128a61b4fe0a4",
+    "bytes": 4062
+  },
+  {
+    "path": "assets/art/epilogue_dawn.png",
+    "sha256": "fafd9b33cc8414174709e2711a8d0bba622dc42d1867a9620910b5c3699b6031",
+    "bytes": 1921565
+  },
+  {
+    "path": "assets/art/bg_act2_near.png",
+    "sha256": "93cd4c2f56d0473a1a1c6b13888554854b0c1bd28586548af6402b33be768f5b",
+    "bytes": 772635
+  },
+  {
+    "path": "assets/art/bg_act3_near.png",
+    "sha256": "e2d5f201ed9390abb89c348f7c54c2ee3e5b050fa7d55527297d2c934925e172",
+    "bytes": 899324
+  },
+  {
+    "path": "assets/art/sprite_foreman_damaged.png",
+    "sha256": "ddb410c2deb6b7fb40c8d22130327fc2dba6bd2cd5be690417f6efbf3e5bec9e",
+    "bytes": 1873448
+  },
+  {
+    "path": "assets/art/fx_spark.png",
+    "sha256": "fbefb9249421b2e8020fe53a9689d1bc6ed20be93aabf540122845a15753fe70",
+    "bytes": 424197
+  },
+  {
+    "path": "assets/art/sprite_foreman_critical.png",
+    "sha256": "99521e5bc0df66905f8e30f3e4aca7221c53c6c17d2e7e357bf993e964180ce9",
+    "bytes": 2147643
+  },
+  {
+    "path": "assets/art/tex_rock.png",
+    "sha256": "241c9d3839e8c471d0256de2c0cd9f24b8480c37716882ff05c93a0e91e83138",
+    "bytes": 3266154
+  },
+  {
+    "path": "assets/art/portrait_mara.png",
+    "sha256": "bbeb0f382b1a35dab8f19a2ec99cdc11294980af4290fc9775ff19ee0de72129",
+    "bytes": 1999431
+  },
+  {
+    "path": "assets/art/portrait_warden.png",
+    "sha256": "f8425c41926feeab513b235650ac71c9298e4869c1b9af5d5113bde672f7b490",
+    "bytes": 1739003
+  },
+  {
+    "path": "assets/art/portrait_foreman.png",
+    "sha256": "59a35cf9427f19769770abd60887b9c911daf49ad13b66c97e57070b1ffa0b6e",
+    "bytes": 2050592
+  },
+  {
+    "path": "assets/art/interlude_new_sun.png",
+    "sha256": "fdd0ddd52a05d4578092ae969f58a6516b027962c6f996067a69172ffe6d0447",
+    "bytes": 1678157
+  },
+  {
+    "path": "assets/art/intro_turret.png",
+    "sha256": "3be726cc3fca43d076a4a51f9dd619a3a660a2337dd8b3637492e48964a7fcf7",
+    "bytes": 1832670
+  },
+  {
+    "path": "assets/art/sprite_foreman_core.png",
+    "sha256": "396717eaa141e666205a6e0cd429d4152abda97806bebcb0c82a3b1cab9d055d",
+    "bytes": 1776751
+  },
+  {
+    "path": "assets/art/interlude_halde.png",
+    "sha256": "1671f9e5f2aa5e253cdbb4f08534d1eee82ab1b3d18088c7c2612862d61d5030",
+    "bytes": 1937528
+  },
+  {
+    "path": "assets/art/fx_flash.png",
+    "sha256": "afebb32455f2d0ad84c0f9fcc4bcc1363a800a60ba9aa84f6414827cade437b8",
+    "bytes": 609019
+  },
+  {
+    "path": "assets/art/icon_bullet.png",
+    "sha256": "2003ca1e8661b7f0f9a90424a221f1b4acd09901322aaead7d2667f40c13eb35",
+    "bytes": 1024988
+  },
+  {
+    "path": "assets/art/intro_outpost.png",
+    "sha256": "78ed31657d88d35a88602296a27bda09bf75d9e5f35cd78ed774648500167e37",
+    "bytes": 1730495
+  },
+  {
+    "path": "assets/art/intro_derelicts.png",
+    "sha256": "35408770d57608bfe069bda831690357d0b83f79fee5d6bc880bf140a8136d98",
+    "bytes": 1834719
+  },
+  {
+    "path": "assets/art/tex_perpetio.png",
+    "sha256": "709a85de2de4a572f30b3a5ac820b295f96e44e6cc379a611e6b9cab1ecda696",
+    "bytes": 2843897
+  },
+  {
+    "path": "assets/art/portrait_gunner.png",
+    "sha256": "294b01c8c52b615621db067059f5e8f203942e1e9e3631540f65e3b636a4b1e6",
+    "bytes": 1684640
+  },
+  {
+    "path": "assets/art/sprite_cannon_base_low.png",
+    "sha256": "05fc52591abb8aac6cefc8326c5532823bd2668a176f72cabe57e7006e1c2e2c",
+    "bytes": 695573
+  },
+  {
+    "path": "assets/art/interlude_meridian.png",
+    "sha256": "f6b21343114a368312cce864a71819a2b982776af81de0e867c857247f2e3d60",
+    "bytes": 1678546
+  },
+  {
+    "path": "assets/art/bg_act1_near.png",
+    "sha256": "e9a32e45868d180145a50385ddeaa78243082834aef8c78dae92a60e2b97f937",
+    "bytes": 730689
+  },
+  {
+    "path": "assets/art/portrait_toko.png",
+    "sha256": "c0c9e60f726fda034e35354fef230c3c1b37dbad8d07b4c20ecb466db3f27232",
+    "bytes": 1791627
+  },
+  {
+    "path": "assets/art/sprite_beacon.png",
+    "sha256": "cdf42555945555f5bdd5681453dcf2ce9570385de97ee2613477383a74b37bd2",
+    "bytes": 759209
+  },
+  {
+    "path": "assets/art/portrait_vega.png",
+    "sha256": "69571e1fca9ff70d8b93e0ba65105b59697cf8ac72cec5b58b9dd0ca4fc0e631",
+    "bytes": 1623399
+  },
+  {
+    "path": "assets/art/sprite_warden.png",
+    "sha256": "f341507e4071201aa68c871d10f7946c3a73011e2fd2fe5ea335bfcd3fc406be",
+    "bytes": 1035007
+  },
+  {
+    "path": "assets/art/icon_laser.png",
+    "sha256": "4e68e88dd51160e10891538060d86e427795fbeb4bb58d63c31674d57d7d71ef",
+    "bytes": 1220668
+  },
+  {
+    "path": "assets/art/bg_act3.png",
+    "sha256": "4db2086230587217c889835b3602f97d440bba915aca19b22502f19e74fd6be9",
+    "bytes": 1479623
+  },
+  {
+    "path": "assets/art/bg_act2.png",
+    "sha256": "923f7e0ee0a0a9ff0ea5af6379fcee04d6d349da83c7d3990757b7c71475e2b0",
+    "bytes": 1474868
+  },
+  {
+    "path": "assets/art/intro_beacons.png",
+    "sha256": "deff94e1df1850763c6b277c09ab682b797a18c0d05dc340b8234d0e53e0b25e",
+    "bytes": 1994892
+  },
+  {
+    "path": "assets/art/bg_act1.png",
+    "sha256": "df37e985844776efd48bd4ee20e7b35b7d701a6a7d392c7a4f159575534bfe32",
+    "bytes": 1380181
+  },
+  {
+    "path": "assets/art/icon_bomb.png",
+    "sha256": "d2a84d540f9e1f7bbcf461007e5bbbc4e2ecf82d951fceff4055db736aea423a",
+    "bytes": 1157049
+  },
+  {
+    "path": "assets/art/sprite_cannon_barrel.png",
+    "sha256": "e7202288a6f3bc1e6588dace8446d06ed1336e763ae43f9b6ecac0509fcec27f",
+    "bytes": 529623
+  },
+  {
+    "path": "assets/art/sprite_cannon_base.png",
+    "sha256": "9d5c6155af6b9083f701d9afabd2bb1d9886858a91c5babbdf6cba712d5945c6",
+    "bytes": 800941
+  },
+  {
+    "path": "assets/art/bg_boss.png",
+    "sha256": "d535529d733de9dd10177d7894d7db8bae3c946fe1b57e6ea6c444cde6fcdcc6",
+    "bytes": 1531110
+  },
+  {
+    "path": "assets/art/fx_smoke.png",
+    "sha256": "518743c2430f23f344bef30c8c0d7bc7932b6c80e3bb9e17da220d673ca7b69d",
+    "bytes": 815990
+  },
+  {
+    "path": "assets/art/intro_awakening.png",
+    "sha256": "e29b6c3b3682399d6ee5eec91d8aa024407c35a9123b1faed5abb3be3774eb7f",
+    "bytes": 1902236
+  },
+  {
+    "path": "assets/Geist_Pixel/GeistPixel-Regular-VariableFont_ELSH.ttf",
+    "sha256": "61dc924de79b30f29fc1e3be84f47b9a8e2efcefe8d1cb839de4ef6624e77650",
+    "bytes": 3656708
+  },
+  {
+    "path": "assets/Geist_Pixel/OFL.txt",
+    "sha256": "c48cdf84ec4da49dea8d3ec98919fe05391f8d224982660f578cf8ba55e6a17e",
+    "bytes": 4477
+  },
+  {
+    "path": "assets/Geist_Pixel/README.txt",
+    "sha256": "f4eaf9070eff0ad370da405aa940262e8f14a0a25da00c99c209a049e4624997",
+    "bytes": 2046
+  },
+  {
+    "path": "assets/sounds/beacon_down.wav",
+    "sha256": "5b91a4fd2e8a2df1538d01743eef81e041591f7e29e301e54ad940c41cfc8fac",
+    "bytes": 27824
+  },
+  {
+    "path": "assets/sounds/warning_pulse.wav",
+    "sha256": "54595bffb0491a3aa5f969a7faeb162a9b3f0d638a20eff071c11a49cb2b1164",
+    "bytes": 20770
+  },
+  {
+    "path": "assets/sounds/music_loop.wav",
+    "sha256": "1f70d9adf329f282b8d73dcbce9d1519a56e8e24f61c8e4cb2a305a5fca6746b",
+    "bytes": 705644
+  },
+  {
+    "path": "assets/sounds/explosion_big.wav",
+    "sha256": "1752269b569f84f75a005e700c0d2fb60adcf793821bac0f6fa0f01c1d84e84a",
+    "bytes": 33118
+  },
+  {
+    "path": "assets/sounds/fire_bomb.wav",
+    "sha256": "9f41230ca46367a165d614a9170ca8de8eaf4dc890d882b11cf58c776009a959",
+    "bytes": 13274
+  },
+  {
+    "path": "assets/sounds/teleport.wav",
+    "sha256": "f24996fbd01fccff6bf3fda8ab2481e9a4955c89e25306c6a7bceedc56d5648d",
+    "bytes": 13274
+  },
+  {
+    "path": "assets/sounds/reflect.wav",
+    "sha256": "61d81d20fa0daa9fdc26693fa45c6aea8ebe45314ddabd9edea87afa186c3b7d",
+    "bytes": 4454
+  },
+  {
+    "path": "assets/sounds/explosion_small.wav",
+    "sha256": "7aac0e07c7970de4b157f59b16464f872eef100496a792f5418aa6bfd80a1210",
+    "bytes": 16802
+  },
+  {
+    "path": "assets/sounds/zap_hit.wav",
+    "sha256": "aca7a0fdab36dcd67520d642b27f7f2368476d1a6272c5204b6101edfd216aa1",
+    "bytes": 7100
+  },
+  {
+    "path": "assets/sounds/victory_sting.wav",
+    "sha256": "5f24e013e30a0dabd318fd87018ffb791b4c211fd3244c052fdbd02beb713937",
+    "bytes": 31796
+  },
+  {
+    "path": "assets/sounds/fail.wav",
+    "sha256": "e979800872e3076f4200992464b068c661536d6ab77b9d3aa35ed83af672cf41",
+    "bytes": 24740
+  },
+  {
+    "path": "assets/sounds/click.wav",
+    "sha256": "f9f0dd21146cbd54bd65a50d2310629e91d7a449dba2ef781ae6aae443ed8eb9",
+    "bytes": 1586
+  },
+  {
+    "path": "assets/sounds/fire_laser.wav",
+    "sha256": "fc1059458d20bc0a2b175a4fb881a74ed39d7aad19aa95049f39103feafbab1a",
+    "bytes": 8864
+  },
+  {
+    "path": "assets/sounds/fire_bullet.wav",
+    "sha256": "4cc6eda5fd5f75781b6686f9aed60fb253ce0c9d0fd716874cf72545dc690229",
+    "bytes": 7100
+  },
+  {
+    "path": "assets/Geist/Geist-Regular.ttf",
+    "sha256": "5c8968eafb98a4c4f47033daf29e38e284a6f2a82eb017d171ab040fe7c4b615",
+    "bytes": 126048
+  },
+  {
+    "path": "assets/Geist/GeistMono-SemiBold.ttf",
+    "sha256": "8b6e127117b03046495b40d4227de66bf5f81f7fe2f4546ee578e89738052314",
+    "bytes": 149700
+  },
+  {
+    "path": "assets/Geist/OFL.txt",
+    "sha256": "c683bfbcc7e087f5d37a54ef628f10387c451a83ddc459b151403a164ac46c90",
+    "bytes": 4383
+  },
+  {
+    "path": "assets/Geist/GeistMono-Regular.ttf",
+    "sha256": "42d8ad2e610238e64e8abfcde3037c63f7850a73928742b7ab7229d897bcb155",
+    "bytes": 148516
+  },
+  {
+    "path": "assets/Geist/Geist-SemiBold.ttf",
+    "sha256": "612ec98df33935354f39e81e54101656961ab6e5549f64b63eb57868ba7bab8d",
+    "bytes": 127872
+  },
+  {
+    "path": "assets/art/runtime/bg_act2_near.png",
+    "sha256": "60d72e0b2a8ba0e34f7d286c49df57b54f91aae134db5599838d93aaccf46179",
+    "bytes": 89851
+  },
+  {
+    "path": "assets/art/runtime/bg_act3_near.png",
+    "sha256": "c1cb0263d28798fd4e8e4222c793065d525aa08ad082c5fbbb22f1135f93f590",
+    "bytes": 154555
+  },
+  {
+    "path": "assets/art/runtime/sprite_foreman_damaged.png",
+    "sha256": "dd57077ce1f224b44f93d36be7433cccc993a0ff5f4216faf9b0af68647a6c47",
+    "bytes": 250820
+  },
+  {
+    "path": "assets/art/runtime/fx_spark.png",
+    "sha256": "441d5d42e54ba905244203525e49d5922cf85273e8873cab43eea4c8778c4b46",
+    "bytes": 65984
+  },
+  {
+    "path": "assets/art/runtime/sprite_foreman_critical.png",
+    "sha256": "2cdd959853bb49d1209f23b82b9546c5dc30fdb5a08b00e998e919711b4616f0",
+    "bytes": 276678
+  },
+  {
+    "path": "assets/art/runtime/portrait_mara.png",
+    "sha256": "c954084d18eb7502c71ffd11eb15b52e4a8fa7043abb569e2f47785df60f80e0",
+    "bytes": 445308
+  },
+  {
+    "path": "assets/art/runtime/interlude_new_sun.png",
+    "sha256": "c1c74a5557049559735c3766512e998b0ab03da7554c2d2e56101023f1a2f4ca",
+    "bytes": 1360935
+  },
+  {
+    "path": "assets/art/runtime/asset_manifest.json",
+    "sha256": "e29320c2b08dcc810e4192c9d8ead75e2a4baa34a5961557dce3de1ba217da82",
+    "bytes": 14259
+  },
+  {
+    "path": "assets/art/runtime/sprite_foreman_core.png",
+    "sha256": "c6902eb6b0c3a4d4e8270f413b0c51253e007e4ac33c8ee4ededf0c84aa00efa",
+    "bytes": 238133
+  },
+  {
+    "path": "assets/art/runtime/interlude_halde.png",
+    "sha256": "196f11840e39731850da67d189abe33a756e2aef96826bd385dec6d5b0284a78",
+    "bytes": 1532814
+  },
+  {
+    "path": "assets/art/runtime/fx_flash.png",
+    "sha256": "e50c8ff34979a277620fbb9c80fb4e42496cf4253d919cf74225927b50605648",
+    "bytes": 40642
+  },
+  {
+    "path": "assets/art/runtime/icon_bullet.png",
+    "sha256": "f3df73194229732417be255023523dff5efe7fc1f3e183986e65beb326a85e98",
+    "bytes": 37701
+  },
+  {
+    "path": "assets/art/runtime/sprite_cannon_base_low.png",
+    "sha256": "d69b06dc89ee8b117fce4fbccc4816cf97c81ab07ddcd7c408c5dc049610664d",
+    "bytes": 90828
+  },
+  {
+    "path": "assets/art/runtime/interlude_meridian.png",
+    "sha256": "38facfa2762443179eadd14029e1e9053e8627c26168aac447b42b89cdcf594f",
+    "bytes": 1266386
+  },
+  {
+    "path": "assets/art/runtime/bg_act1_near.png",
+    "sha256": "60b4cd32b2d21abac72b104a281a91107df03136c8656c4ce0bb5d8b33d07e0f",
+    "bytes": 55754
+  },
+  {
+    "path": "assets/art/runtime/sprite_beacon.png",
+    "sha256": "2fb4961b1448b8840400f3fdc0c64fc20b6e27f09993219cab208f87964b3e49",
+    "bytes": 73296
+  },
+  {
+    "path": "assets/art/runtime/sprite_warden.png",
+    "sha256": "7b472393d56991af68b9a149511dc0b6e3d5e500d32fcbe6a3f6a3d07051f265",
+    "bytes": 87237
+  },
+  {
+    "path": "assets/art/runtime/icon_laser.png",
+    "sha256": "8838ec5cc779b35c2e159eddd357960569b89f5507a437f142adcba5068d2113",
+    "bytes": 17548
+  },
+  {
+    "path": "assets/art/runtime/icon_bomb.png",
+    "sha256": "4482cf9697e76d1e8249fb767e650dc36f606496c9273b7ad6cb6b068252c186",
+    "bytes": 38325
+  },
+  {
+    "path": "assets/art/runtime/sprite_cannon_barrel.png",
+    "sha256": "e142703b9e9b09ccd870320d365a69038105be1079b570424c646668e4fee128",
+    "bytes": 26236
+  },
+  {
+    "path": "assets/art/runtime/sprite_cannon_base.png",
+    "sha256": "0b7727e7dd51eedde1e3d649c4c3e7a3b4cef4b8e0c6a5f40f0492b40470dac2",
+    "bytes": 115619
+  },
+  {
+    "path": "assets/art/runtime/fx_smoke.png",
+    "sha256": "08ba987f3d2c2ef5a4e89b979ba473b7d5975ed293b888d76f9e8a7ff611a3c9",
+    "bytes": 34237
+  },
+  {
+    "path": "assets/soundtrack/runtime/music_anomaly.mp3",
+    "sha256": "01a681ee008cd592c664485e09dd0a29dc0ba7ada6f8c0745686be43fb30bec7",
+    "bytes": 2727044
+  },
+  {
+    "path": "assets/soundtrack/runtime/music_epilogue.mp3",
+    "sha256": "45e0bee56d5d230eaa85f3e8d86d5223f2a70097264f6e441e9b0d81c4a71e1b",
+    "bytes": 2363960
+  },
+  {
+    "path": "assets/soundtrack/runtime/music_foreman_p3.mp3",
+    "sha256": "4d25ca66e7a4e62fe49354150632d9db53658e24ba58693f52fbe7bec4ca0547",
+    "bytes": 2042234
+  },
+  {
+    "path": "assets/soundtrack/runtime/music_foreman_p2.mp3",
+    "sha256": "013a94787fee98a965ea418a28f60c6faa8e3d15eb4288d4f39e704a0f866a92",
+    "bytes": 1923200
+  },
+  {
+    "path": "assets/soundtrack/runtime/music_warden.mp3",
+    "sha256": "01b12cd3cbea5d18512c7d2c724b828aa581678a56158d2212ad7519d2d808e4",
+    "bytes": 2299401
+  },
+  {
+    "path": "assets/soundtrack/runtime/music_story.mp3",
+    "sha256": "6a6f829fa92ae4f0e4ce405a132add940bb0eaef3cf5d848ab1389e5e844eed9",
+    "bytes": 2001223
+  },
+  {
+    "path": "assets/soundtrack/runtime/music_foreman_p1.mp3",
+    "sha256": "2cf3b14ce88da5538379482766fdbe853089aa0cc56992733210587b4e739bf5",
+    "bytes": 1962502
+  },
+  {
+    "path": "assets/soundtrack/runtime/music_title.mp3",
+    "sha256": "5ee3bfb0b18b490a23205095efdfe96657b9645444301d4f84f48163f970a598",
+    "bytes": 1923830
+  },
+  {
+    "path": "assets/soundtrack/runtime/music_belt.mp3",
+    "sha256": "c159541ad30fca868569f37cf2635b3d0e7cfbf6c923b747e131a491b9237119",
+    "bytes": 2318345
+  },
+  {
+    "path": "assets/soundtrack/runtime/music_menu.mp3",
+    "sha256": "4f6e233a4a1e826e899599bad4206ecfd2606f2ba0cd14a4c81bdf0bb58c5ffa",
+    "bytes": 2073399
+  },
+  {
+    "path": "docs/report.pdf",
+    "source_path": "report.pdf",
+    "sha256": "cd3aa171919ee1dc84b4c46dc0e75c84e167b1360cb20c66760d9e0bdb1a01d1",
+    "bytes": 5679102
+  }
+]

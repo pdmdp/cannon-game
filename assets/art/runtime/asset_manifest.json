@@ -1,0 +1,572 @@
+{
+  "assets": {
+    "bg_act1_near": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "bg_act1_near.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "60b4cd32b2d21abac72b104a281a91107df03136c8656c4ce0bb5d8b33d07e0f",
+      "runtime_size": [
+        1280,
+        720
+      ],
+      "source": "bg_act1_near.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "e9a32e45868d180145a50385ddeaa78243082834aef8c78dae92a60e2b97f937",
+      "source_size": [
+        1672,
+        941
+      ],
+      "valid": true
+    },
+    "bg_act2_near": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "bg_act2_near.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "60d72e0b2a8ba0e34f7d286c49df57b54f91aae134db5599838d93aaccf46179",
+      "runtime_size": [
+        1280,
+        720
+      ],
+      "source": "bg_act2_near.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "93cd4c2f56d0473a1a1c6b13888554854b0c1bd28586548af6402b33be768f5b",
+      "source_size": [
+        1672,
+        941
+      ],
+      "valid": true
+    },
+    "bg_act3_near": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "bg_act3_near.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "c1cb0263d28798fd4e8e4222c793065d525aa08ad082c5fbbb22f1135f93f590",
+      "runtime_size": [
+        1280,
+        720
+      ],
+      "source": "bg_act3_near.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "e2d5f201ed9390abb89c348f7c54c2ee3e5b050fa7d55527297d2c934925e172",
+      "source_size": [
+        1672,
+        941
+      ],
+      "valid": true
+    },
+    "fx_flash": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "fx_flash.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "e50c8ff34979a277620fbb9c80fb4e42496cf4253d919cf74225927b50605648",
+      "runtime_size": [
+        256,
+        242
+      ],
+      "source": "fx_flash.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "afebb32455f2d0ad84c0f9fcc4bcc1363a800a60ba9aa84f6414827cade437b8",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "fx_smoke": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "fx_smoke.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "08ba987f3d2c2ef5a4e89b979ba473b7d5975ed293b888d76f9e8a7ff611a3c9",
+      "runtime_size": [
+        230,
+        256
+      ],
+      "source": "fx_smoke.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "518743c2430f23f344bef30c8c0d7bc7932b6c80e3bb9e17da220d673ca7b69d",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "fx_spark": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "fx_spark.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "441d5d42e54ba905244203525e49d5922cf85273e8873cab43eea4c8778c4b46",
+      "runtime_size": [
+        256,
+        255
+      ],
+      "source": "fx_spark.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "fbefb9249421b2e8020fe53a9689d1bc6ed20be93aabf540122845a15753fe70",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "icon_bomb": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "icon_bomb.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "4482cf9697e76d1e8249fb767e650dc36f606496c9273b7ad6cb6b068252c186",
+      "runtime_size": [
+        256,
+        118
+      ],
+      "source": "icon_bomb.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "d2a84d540f9e1f7bbcf461007e5bbbc4e2ecf82d951fceff4055db736aea423a",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "icon_bullet": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "icon_bullet.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "f3df73194229732417be255023523dff5efe7fc1f3e183986e65beb326a85e98",
+      "runtime_size": [
+        256,
+        111
+      ],
+      "source": "icon_bullet.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "2003ca1e8661b7f0f9a90424a221f1b4acd09901322aaead7d2667f40c13eb35",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "icon_laser": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "icon_laser.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "8838ec5cc779b35c2e159eddd357960569b89f5507a437f142adcba5068d2113",
+      "runtime_size": [
+        256,
+        91
+      ],
+      "source": "icon_laser.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "4e68e88dd51160e10891538060d86e427795fbeb4bb58d63c31674d57d7d71ef",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "interlude_halde": {
+      "issues": [],
+      "kind": "panel",
+      "runtime": "interlude_halde.png",
+      "runtime_alpha_range": [
+        255,
+        255
+      ],
+      "runtime_has_alpha": false,
+      "runtime_sha256": "196f11840e39731850da67d189abe33a756e2aef96826bd385dec6d5b0284a78",
+      "runtime_size": [
+        1280,
+        720
+      ],
+      "source": "interlude_halde.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "1671f9e5f2aa5e253cdbb4f08534d1eee82ab1b3d18088c7c2612862d61d5030",
+      "source_size": [
+        1672,
+        941
+      ],
+      "valid": true
+    },
+    "interlude_meridian": {
+      "issues": [],
+      "kind": "panel",
+      "runtime": "interlude_meridian.png",
+      "runtime_alpha_range": [
+        255,
+        255
+      ],
+      "runtime_has_alpha": false,
+      "runtime_sha256": "38facfa2762443179eadd14029e1e9053e8627c26168aac447b42b89cdcf594f",
+      "runtime_size": [
+        1280,
+        720
+      ],
+      "source": "interlude_meridian.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "f6b21343114a368312cce864a71819a2b982776af81de0e867c857247f2e3d60",
+      "source_size": [
+        1672,
+        941
+      ],
+      "valid": true
+    },
+    "interlude_new_sun": {
+      "issues": [],
+      "kind": "panel",
+      "runtime": "interlude_new_sun.png",
+      "runtime_alpha_range": [
+        255,
+        255
+      ],
+      "runtime_has_alpha": false,
+      "runtime_sha256": "c1c74a5557049559735c3766512e998b0ab03da7554c2d2e56101023f1a2f4ca",
+      "runtime_size": [
+        1280,
+        720
+      ],
+      "source": "interlude_new_sun.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "fdd0ddd52a05d4578092ae969f58a6516b027962c6f996067a69172ffe6d0447",
+      "source_size": [
+        1672,
+        941
+      ],
+      "valid": true
+    },
+    "portrait_mara": {
+      "issues": [],
+      "kind": "portrait",
+      "runtime": "portrait_mara.png",
+      "runtime_alpha_range": [
+        255,
+        255
+      ],
+      "runtime_has_alpha": false,
+      "runtime_sha256": "c954084d18eb7502c71ffd11eb15b52e4a8fa7043abb569e2f47785df60f80e0",
+      "runtime_size": [
+        512,
+        512
+      ],
+      "source": "portrait_mara.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "bbeb0f382b1a35dab8f19a2ec99cdc11294980af4290fc9775ff19ee0de72129",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "sprite_beacon": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "sprite_beacon.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "2fb4961b1448b8840400f3fdc0c64fc20b6e27f09993219cab208f87964b3e49",
+      "runtime_size": [
+        381,
+        384
+      ],
+      "source": "sprite_beacon.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "cdf42555945555f5bdd5681453dcf2ce9570385de97ee2613477383a74b37bd2",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "sprite_cannon_barrel": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "sprite_cannon_barrel.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "e142703b9e9b09ccd870320d365a69038105be1079b570424c646668e4fee128",
+      "runtime_size": [
+        384,
+        101
+      ],
+      "source": "sprite_cannon_barrel.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "e7202288a6f3bc1e6588dace8446d06ed1336e763ae43f9b6ecac0509fcec27f",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "sprite_cannon_base": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "sprite_cannon_base.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "0b7727e7dd51eedde1e3d649c4c3e7a3b4cef4b8e0c6a5f40f0492b40470dac2",
+      "runtime_size": [
+        384,
+        345
+      ],
+      "source": "sprite_cannon_base.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "9d5c6155af6b9083f701d9afabd2bb1d9886858a91c5babbdf6cba712d5945c6",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "sprite_cannon_base_low": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "sprite_cannon_base_low.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "d69b06dc89ee8b117fce4fbccc4816cf97c81ab07ddcd7c408c5dc049610664d",
+      "runtime_size": [
+        384,
+        178
+      ],
+      "source": "sprite_cannon_base_low.png",
+      "source_alpha_range": [
+        0,
+        255
+      ],
+      "source_has_alpha_channel": true,
+      "source_sha256": "05fc52591abb8aac6cefc8326c5532823bd2668a176f72cabe57e7006e1c2e2c",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "sprite_foreman_core": {
+      "issues": [],
+      "kind": "boss",
+      "runtime": "sprite_foreman_core.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "c6902eb6b0c3a4d4e8270f413b0c51253e007e4ac33c8ee4ededf0c84aa00efa",
+      "runtime_size": [
+        384,
+        384
+      ],
+      "source": "sprite_foreman_core.png",
+      "source_alpha_range": [
+        0,
+        255
+      ],
+      "source_has_alpha_channel": true,
+      "source_sha256": "396717eaa141e666205a6e0cd429d4152abda97806bebcb0c82a3b1cab9d055d",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "sprite_foreman_critical": {
+      "issues": [],
+      "kind": "boss",
+      "runtime": "sprite_foreman_critical.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "2cdd959853bb49d1209f23b82b9546c5dc30fdb5a08b00e998e919711b4616f0",
+      "runtime_size": [
+        384,
+        384
+      ],
+      "source": "sprite_foreman_critical.png",
+      "source_alpha_range": [
+        0,
+        255
+      ],
+      "source_has_alpha_channel": true,
+      "source_sha256": "99521e5bc0df66905f8e30f3e4aca7221c53c6c17d2e7e357bf993e964180ce9",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "sprite_foreman_damaged": {
+      "issues": [],
+      "kind": "boss",
+      "runtime": "sprite_foreman_damaged.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "dd57077ce1f224b44f93d36be7433cccc993a0ff5f4216faf9b0af68647a6c47",
+      "runtime_size": [
+        384,
+        384
+      ],
+      "source": "sprite_foreman_damaged.png",
+      "source_alpha_range": [
+        0,
+        255
+      ],
+      "source_has_alpha_channel": true,
+      "source_sha256": "ddb410c2deb6b7fb40c8d22130327fc2dba6bd2cd5be690417f6efbf3e5bec9e",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    },
+    "sprite_warden": {
+      "issues": [],
+      "kind": "runtime_art",
+      "runtime": "sprite_warden.png",
+      "runtime_alpha_range": [
+        0,
+        255
+      ],
+      "runtime_has_alpha": true,
+      "runtime_sha256": "7b472393d56991af68b9a149511dc0b6e3d5e500d32fcbe6a3f6a3d07051f265",
+      "runtime_size": [
+        384,
+        367
+      ],
+      "source": "sprite_warden.png",
+      "source_alpha_range": [
+        255,
+        255
+      ],
+      "source_has_alpha_channel": false,
+      "source_sha256": "f341507e4071201aa68c871d10f7946c3a73011e2fd2fe5ea335bfcd3fc406be",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "valid": true
+    }
+  },
+  "version": 4
+}
