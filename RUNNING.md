@@ -80,3 +80,9 @@ of Fame entries or preferences.
 - `assets/`: images, runtime music, sound effects, fonts and their licences.
 
 Credits and asset sources are listed in [CREDITS.md](CREDITS.md).
+
+## Validation and source
+
+Twelve automated checks cover geometry, ballistic motion, laser paths, settings, save consistency and asset checksums. They were added and run for the November 2026 publication. Rendering, sound and interactive timing still require manual checks; the submitted report records the original playtesting and known limitations.
+
+The submitted game code, assets, report and credits are unchanged by this documentation update. [Source checksums](docs/source-manifest.json) identify the original files. The README, extracted report screenshot and automated checks were added when the project was published. The later [gameplay clip](docs/media/cannon-showcase.mp4) and [GIF](docs/media/cannon-showcase.gif) were supplied by Matteo for the repository showcase.
